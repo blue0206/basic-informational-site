@@ -1,0 +1,27 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "description": "A very basic project to practice NodeJS from The Odin Project",
+  "keywords": [
+    "nodejs"
+  ],
+  "homepage": "https://github.com/blue0206/basic-informational-site#readme",
+  "bugs": {
+    "url": "https://github.com/blue0206/basic-informational-site/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blue0206/basic-informational-site.git"
+  },
+  "license": "ISC",
+  "author": "Aayush Rai",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
