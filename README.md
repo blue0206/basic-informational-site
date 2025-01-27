@@ -5,7 +5,7 @@ A very basic project to practice NodeJS from The Odin Project
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/basic-informational-site.git
+    git clone https://github.com/blue0206/basic-informational-site.git
     ```
 2. Navigate to the project directory:
     ```bash
